@@ -6,14 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="configcenter" />
         <module name="eurekaserver" />
         <module name="eurekatest" />
+        <module name="pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="eurekaserver" target="1.5" />
-      <module name="eurekatest" target="1.5" />
-      <module name="springcloud" target="1.5" />
+      <module name="configcenter" target="1.8" />
+      <module name="eurekaserver" target="1.8" />
+      <module name="eurekatest" target="1.8" />
+      <module name="pattern" target="1.8" />
+      <module name="springcloud" target="1.8" />
       <module name="springcloudconsumer" target="1.5" />
     </bytecodeTargetLevel>
   </component>

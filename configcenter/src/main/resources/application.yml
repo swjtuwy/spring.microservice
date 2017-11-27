@@ -1,0 +1,13 @@
+### default config ###
+
+server.port: 9998
+
+spring.profiles.include: native
+
+
+### production config ###
+---
+
+spring.profiles: production
+
+spring.cloud.config.server.native.searchLocations: /opt/ygomi/roadDB/etc/config/

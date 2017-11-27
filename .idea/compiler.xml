@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eurekaserver" />
+        <module name="eurekatest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eurekaserver" target="1.5" />
+      <module name="eurekatest" target="1.5" />
       <module name="springcloud" target="1.5" />
       <module name="springcloudconsumer" target="1.5" />
     </bytecodeTargetLevel>

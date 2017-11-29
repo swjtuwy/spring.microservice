@@ -6,14 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="configcenter" />
+        <module name="config-client" />
+        <module name="configgitclient" />
+        <module name="configserver" />
         <module name="eurekaserver" />
         <module name="eurekatest" />
         <module name="pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="configcenter" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-git-client" target="1.8" />
+      <module name="config-git-server" target="1.8" />
+      <module name="config.center" target="1.6" />
+      <module name="config_git_client" target="1.8" />
+      <module name="configcenter" target="1.6" />
+      <module name="configclient" target="1.8" />
+      <module name="configgitclient" target="1.8" />
+      <module name="configserver" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="eurekatest" target="1.8" />
       <module name="pattern" target="1.8" />

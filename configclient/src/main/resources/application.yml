@@ -1,0 +1,12 @@
+### default config ###
+spring.application.name: config-client
+spring.profiles.active: dev
+spring.cloud.config.uri: http://localhost:8888
+
+server.port: 8083
+
+eureka.client.serviceUrl.defaultZone: http://localhost:8761/eureka/
+---
+spring.profiles: test
+
+demo.env: local

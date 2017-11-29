@@ -1,0 +1,12 @@
+
+#spring.application.name: config-server
+#spring.cloud.config.server.git.uri: ${config.repo.uri:https://github.com/swjtuwy/spring-cloud-example}
+#spring.cloud.config.server.git.searchPaths: config-repo
+
+server.port: 8888
+
+spring.profiles.include: native
+
+spring.cloud.config.server.native.searchLocations: /home/test/Documents/sprint/config/
+
+eureka.client.serviceUrl.defaultZone: http://localhost:8761/eureka/

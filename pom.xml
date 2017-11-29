@@ -15,6 +15,7 @@
         <module>pattern</module>
         <module>configserver</module>
         <module>configclient</module>
+        <module>adminserver</module>
     </modules>
 
 
@@ -116,6 +117,22 @@
                 <artifactId>spring-boot-starter-tomcat</artifactId>
                 <version>1.5.8.RELEASE</version>
             </dependency>
+
+
+            <!-- https://mvnrepository.com/artifact/de.codecentric/spring-boot-admin-server -->
+            <dependency>
+                <groupId>de.codecentric</groupId>
+                <artifactId>spring-boot-admin-server</artifactId>
+                <version>1.5.5</version>
+            </dependency>
+
+            <!-- https://mvnrepository.com/artifact/de.codecentric/spring-boot-admin-server-ui -->
+            <dependency>
+                <groupId>de.codecentric</groupId>
+                <artifactId>spring-boot-admin-server-ui</artifactId>
+                <version>1.5.5</version>
+            </dependency>
+
 
             <!--
             <dependency>

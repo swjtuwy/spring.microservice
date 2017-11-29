@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="adminserver" />
         <module name="config-client" />
+        <module name="configclient" />
         <module name="configgitclient" />
         <module name="configserver" />
         <module name="eurekaserver" />
@@ -15,6 +17,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="adminserver" target="1.8" />
       <module name="config-client" target="1.8" />
       <module name="config-git-client" target="1.8" />
       <module name="config-git-server" target="1.8" />

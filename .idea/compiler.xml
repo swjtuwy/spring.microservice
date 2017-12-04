@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="adminserver" />
+        <module name="admintest" />
         <module name="config-client" />
         <module name="configclient" />
         <module name="configgitclient" />
@@ -14,10 +15,14 @@
         <module name="eurekaserver" />
         <module name="eurekatest" />
         <module name="pattern" />
+        <module name="sprd-webp" />
+        <module name="springboot-admin-client" />
+        <module name="springboot-admin-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="adminserver" target="1.8" />
+      <module name="admintest" target="1.8" />
       <module name="config-client" target="1.8" />
       <module name="config-git-client" target="1.8" />
       <module name="config-git-server" target="1.8" />
@@ -30,6 +35,9 @@
       <module name="eurekaserver" target="1.8" />
       <module name="eurekatest" target="1.8" />
       <module name="pattern" target="1.8" />
+      <module name="sprd-webp" target="1.8" />
+      <module name="springboot-admin-client" target="1.8" />
+      <module name="springboot-admin-server" target="1.8" />
       <module name="springcloud" target="1.8" />
       <module name="springcloudconsumer" target="1.5" />
     </bytecodeTargetLevel>

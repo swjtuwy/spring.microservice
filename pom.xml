@@ -16,6 +16,9 @@
         <module>configserver</module>
         <module>configclient</module>
         <module>adminserver</module>
+        <module>admintest</module>
+        <module>springboot-admin-server</module>
+        <module>springboot-admin-client</module>
     </modules>
 
 
@@ -132,6 +135,23 @@
                 <artifactId>spring-boot-admin-server-ui</artifactId>
                 <version>1.5.5</version>
             </dependency>
+
+
+            <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-security -->
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-security</artifactId>
+                <version>1.5.9.RELEASE</version>
+            </dependency>
+
+
+            <!-- https://mvnrepository.com/artifact/de.codecentric/spring-boot-admin-starter-client -->
+            <dependency>
+                <groupId>de.codecentric</groupId>
+                <artifactId>spring-boot-admin-starter-client</artifactId>
+                <version>1.5.5</version>
+            </dependency>
+
 
 
             <!--

@@ -4,10 +4,15 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/configclient/pom.xml" />
+        <option value="$PROJECT_DIR$/../sprd-webp/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/config-git-client/pom.xml" />
+        <option value="$PROJECT_DIR$/config-git-server/pom.xml" />
+        <option value="$PROJECT_DIR$/configcenter/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudconsumer/pom.xml" />
       </set>
     </option>

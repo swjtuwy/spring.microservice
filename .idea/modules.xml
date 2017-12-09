@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/adminserver/adminserver.iml" filepath="$PROJECT_DIR$/adminserver/adminserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adminserver/admin-server.iml" filepath="$PROJECT_DIR$/adminserver/admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/admintest/admintest.iml" filepath="$PROJECT_DIR$/admintest/admintest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/configclient/configclient.iml" filepath="$PROJECT_DIR$/configclient/configclient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/eurekatest/eurekatest.iml" filepath="$PROJECT_DIR$/eurekatest/eurekatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configclient/config-client.iml" filepath="$PROJECT_DIR$/configclient/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/config-server.iml" filepath="$PROJECT_DIR$/configserver/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eureka-server.iml" filepath="$PROJECT_DIR$/eurekaserver/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekatest/eureka.test.iml" filepath="$PROJECT_DIR$/eurekatest/eureka.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../sprd-webp/sprd-webp.iml" filepath="$PROJECT_DIR$/../sprd-webp/sprd-webp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.cloud.iml" filepath="$PROJECT_DIR$/spring.cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-admin-client/springboot-admin-client.iml" filepath="$PROJECT_DIR$/springboot-admin-client/springboot-admin-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-admin-server/springboot-admin-server.iml" filepath="$PROJECT_DIR$/springboot-admin-server/springboot-admin-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
     </modules>
   </component>
 </project>

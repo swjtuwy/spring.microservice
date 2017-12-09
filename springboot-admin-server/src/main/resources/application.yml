@@ -1,6 +1,6 @@
 logging:
   config: classpath:logback.xml
-  path: /home/test/Documents/sprint
+  path: /Users/wangyu/Documents/log
 server:
   port: 8088
   session-timeout: 60

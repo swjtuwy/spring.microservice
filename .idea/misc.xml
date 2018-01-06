@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/config-git-client/pom.xml" />
         <option value="$PROJECT_DIR$/config-git-server/pom.xml" />
         <option value="$PROJECT_DIR$/configcenter/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudconsumer/pom.xml" />
       </set>
     </option>

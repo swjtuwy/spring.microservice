@@ -14,6 +14,7 @@ import org.junit.Before;
 
 public class TestUserMapper {
 
+    // https://gitee.com/saytime/mybatis_demo/tree/master/src
 
     SqlSessionFactory sqlSessionFactory = null;
     SqlSession sqlSession = null;

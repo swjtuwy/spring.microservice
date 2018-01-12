@@ -6,5 +6,5 @@ public class Executors2 {
 
     }
 
-    private static void test3() throws InterruptedException, Executoin
+    //private static void test3() throws InterruptedException, Executoin
 }

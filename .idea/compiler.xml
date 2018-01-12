@@ -18,8 +18,8 @@
         <module name="eureka.test" />
         <module name="eurekaserver" />
         <module name="eurekatest" />
+        <module name="myBatissample01" />
         <module name="pattern" />
-        <module name="sprd-webp" />
         <module name="springboot-admin-client" />
         <module name="springboot-admin-server" />
       </profile>
@@ -42,6 +42,7 @@
       <module name="eureka.test" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="eurekatest" target="1.8" />
+      <module name="myBatissample01" target="1.8" />
       <module name="pattern" target="1.8" />
       <module name="sprd-webp" target="1.8" />
       <module name="spring.cloud" target="1.8" />

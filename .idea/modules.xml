@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/configserver/config-server.iml" filepath="$PROJECT_DIR$/configserver/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaserver/eureka-server.iml" filepath="$PROJECT_DIR$/eurekaserver/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekatest/eureka.test.iml" filepath="$PROJECT_DIR$/eurekatest/eureka.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBatissample01/myBatissample01.iml" filepath="$PROJECT_DIR$/myBatissample01/myBatissample01.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring.cloud.iml" filepath="$PROJECT_DIR$/spring.cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-admin-client/springboot-admin-client.iml" filepath="$PROJECT_DIR$/springboot-admin-client/springboot-admin-client.iml" />

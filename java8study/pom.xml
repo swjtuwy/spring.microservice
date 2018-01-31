@@ -11,5 +11,13 @@
 
     <artifactId>java8study</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.tensorflow</groupId>
+            <artifactId>tensorflow</artifactId>
+            <version>1.5.0</version>
+        </dependency>
+    </dependencies>
+
 
 </project>

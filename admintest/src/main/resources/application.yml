@@ -1,0 +1,3 @@
+spring.application.name: @project.description@
+server.port: 8080
+spring.boot.admin.url: http://localhost:8090
